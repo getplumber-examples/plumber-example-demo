@@ -1,5 +1,7 @@
 # Plumber demo project
 
+[![Plumber Score](https://score.getplumber.io/github.com/getplumber-examples/plumber-example-demo.svg)](https://score.getplumber.io/github.com/getplumber-examples/plumber-example-demo)
+
 A GitHub Actions workflow with five CI/CD risks that anyone can understand, for demoing [Plumber](https://github.com/getplumber/plumber).
 
 Scan it:
