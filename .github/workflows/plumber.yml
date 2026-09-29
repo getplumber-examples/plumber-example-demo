@@ -20,3 +20,4 @@ jobs:
           # Publishes your Plumber Score and repository name publicly on
           # score.getplumber.io (see Score badge below). Set to false to keep them private.
           score-push: true
+          min-score: B
