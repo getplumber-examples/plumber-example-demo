@@ -15,9 +15,10 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v6
-      - uses: getplumber/plumber@4a1e7a38bd8b3ac576cbddb402d92548fcf3e465
+      - uses: getplumber/plumber@ace0b096144d1f7af8290f4d63349a5a0cd5c889 # v0.7.14
         with:
           # Publishes your Plumber Score and repository name publicly on
           # score.getplumber.io (see Score badge below). Set to false to keep them private.
+          platform: https://demo-github.getplumber.tech
           score-push: true
           min-score: B
